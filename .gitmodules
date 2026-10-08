@@ -1,0 +1,12 @@
+[submodule "EtherCANFD"]
+	path = EtherCANFD
+	url = https://github.com/Roboparty/roboparty_EtherCANFD.git
+	branch = main
+[submodule "roboparty_repo"]
+	path = roboparty_repo
+	url = https://github.com/Roboparty/roboparty_repo.git
+	branch = main
+[submodule "roboparty_build"]
+	path = roboparty_build
+	url = https://github.com/Roboparty/roboparty_build.git
+	branch = main
